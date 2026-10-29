@@ -1,0 +1,66 @@
+[
+  {
+    "id": "q1",
+    "document": "sample_text_contract.pdf",
+    "question": "What is the monthly retainer fee and payment terms?",
+    "expected_answer": "$24,500 USD payable net-30 days upon invoice receipt.",
+    "expected_page": 1,
+    "task": "financial_terms"
+  },
+  {
+    "id": "q2",
+    "document": "sample_text_contract.pdf",
+    "question": "What is the notice period required for termination without cause?",
+    "expected_answer": "Sixty (60) days prior written notice.",
+    "expected_page": 1,
+    "task": "termination"
+  },
+  {
+    "id": "q3",
+    "document": "sample_text_contract.pdf",
+    "question": "What is the limitation of liability cap?",
+    "expected_answer": "Fees paid during the preceding six months ($147,000 USD).",
+    "expected_page": 2,
+    "task": "liability"
+  },
+  {
+    "id": "q4",
+    "document": "sample_text_contract.pdf",
+    "question": "What is the seat and governing law for dispute resolution?",
+    "expected_answer": "State of California, with binding arbitration administered by JAMS in San Francisco.",
+    "expected_page": 2,
+    "task": "dispute_resolution"
+  },
+  {
+    "id": "q5",
+    "document": "sample_financial_tables.pdf",
+    "question": "What was the Q3 2024 revenue for AI Solutions and its YoY growth rate?",
+    "expected_answer": "$35.8 Million with +97.8% YoY growth.",
+    "expected_page": 1,
+    "task": "tabular_extraction"
+  },
+  {
+    "id": "q6",
+    "document": "sample_financial_tables.pdf",
+    "question": "What was the total cash and cash equivalents balance on September 30, 2024?",
+    "expected_answer": "$142.6 Million.",
+    "expected_page": 2,
+    "task": "balance_sheet"
+  },
+  {
+    "id": "q7",
+    "document": "sample_scanned_receipt.pdf",
+    "question": "What was the total invoice amount paid and the payment status?",
+    "expected_answer": "$46,492.25 USD, Status: PAID IN FULL.",
+    "expected_page": 1,
+    "task": "ocr_extraction"
+  },
+  {
+    "id": "q8",
+    "document": "sample_text_contract.pdf",
+    "question": "What color is the submarine mentioned in the contract?",
+    "expected_answer": "This information is not found in the document.",
+    "expected_page": null,
+    "task": "anti_hallucination_negative_test"
+  }
+]

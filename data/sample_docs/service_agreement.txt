@@ -1,0 +1,242 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+Effective Date: June 1, 2024
+Agreement Number: PSA-2024-0789
+
+PARTIES
+
+This Professional Services Agreement ("Agreement") is entered into by and between:
+
+Client: GreenLeaf Organic Foods Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 201, Eco Business Park, Andheri East, Mumbai, Maharashtra 400069, India (hereinafter referred to as "Client" or "GreenLeaf").
+
+Service Provider: CloudNet Digital Services LLP, a limited liability partnership registered under the LLP Act, 2008, having its registered office at 88 Brigade Road, Bangalore, Karnataka 560025, India (hereinafter referred to as "Service Provider" or "CloudNet").
+
+Collectively referred to as the "Parties" and individually as a "Party."
+
+1. SCOPE OF SERVICES
+
+1.1 The Service Provider agrees to provide the following services to the Client (collectively, the "Services"):
+
+(a) Design and Development: Design, develop, and deploy a custom e-commerce web application and mobile application (Android and iOS) for the Client's organic food retail business, including:
+   - Product catalog management system
+   - Shopping cart and checkout functionality
+   - Payment gateway integration (Razorpay and PayTM)
+   - Order tracking and delivery management
+   - Customer account management and loyalty program
+   - Admin dashboard with analytics
+
+(b) Cloud Infrastructure: Set up and configure cloud hosting infrastructure on Amazon Web Services (AWS), including:
+   - Application servers (EC2 instances)
+   - Database servers (RDS - PostgreSQL)
+   - Content delivery network (CloudFront)
+   - SSL certificates and security configuration
+
+(c) Quality Assurance: Perform comprehensive testing including unit testing, integration testing, user acceptance testing (UAT), performance testing, and security vulnerability assessment.
+
+(d) Training: Provide up to twenty (20) hours of training to the Client's staff on using the admin dashboard and content management features.
+
+(e) Post-Launch Support: Provide technical support and bug fixes for a period of six (6) months after the go-live date, as detailed in Section 8.
+
+1.2 Any services not explicitly listed in this Section shall be considered out of scope and will require a separate statement of work (SOW) and additional fees.
+
+2. PROJECT TIMELINE AND MILESTONES
+
+2.1 The project shall be executed in the following phases:
+
+Phase 1 - Discovery and Design (Weeks 1-4):
+   - Requirements gathering and documentation
+   - UI/UX wireframes and design mockups
+   - Architecture design and technical specification
+   - Deliverable: Signed-off design document
+   - Deadline: June 30, 2024
+
+Phase 2 - Development (Weeks 5-16):
+   - Backend API development
+   - Frontend web application development
+   - Mobile application development
+   - Payment gateway integration
+   - Deliverable: Feature-complete application
+   - Deadline: September 22, 2024
+
+Phase 3 - Testing and QA (Weeks 17-20):
+   - Comprehensive testing across all platforms
+   - Bug fixes and performance optimization
+   - Security audit
+   - Deliverable: QA sign-off report
+   - Deadline: October 20, 2024
+
+Phase 4 - Deployment and Launch (Weeks 21-22):
+   - Production deployment
+   - Data migration
+   - Go-live and monitoring
+   - Deliverable: Live application
+   - Deadline: November 3, 2024
+
+Phase 5 - Post-Launch Support (Months 1-6):
+   - Bug fixes and minor enhancements
+   - Performance monitoring
+   - Monthly status reports
+   - End Date: May 3, 2025
+
+2.2 Delays caused by the Client (such as delayed feedback, content delivery, or approval) shall extend the project timeline by an equivalent period, and the Service Provider shall not be held liable for such delays.
+
+3. PAYMENT TERMS
+
+3.1 Total Project Fee: The total fee for the Services described in this Agreement is INR 24,00,000 (Indian Rupees Twenty-Four Lakhs), exclusive of applicable taxes.
+
+3.2 Payment Schedule:
+
+| Milestone | Amount (INR) | Due Date |
+|-----------|-------------|----------|
+| Contract signing (advance) | 4,80,000 (20%) | June 1, 2024 |
+| Design approval (Phase 1) | 3,60,000 (15%) | June 30, 2024 |
+| Development midpoint | 4,80,000 (20%) | August 15, 2024 |
+| Feature-complete delivery | 4,80,000 (20%) | September 22, 2024 |
+| QA sign-off | 3,60,000 (15%) | October 20, 2024 |
+| Go-live and handover | 2,40,000 (10%) | November 3, 2024 |
+
+3.3 Payment Terms: All invoices shall be payable within fifteen (15) days of the invoice date via bank transfer (NEFT/RTGS) to the Service Provider's designated bank account.
+
+3.4 Late Payment: Overdue payments shall attract an interest of one and a half percent (1.5%) per month on the outstanding amount, calculated from the due date until the date of actual payment.
+
+3.5 Taxes: All fees are exclusive of Goods and Services Tax (GST) at the applicable rate (currently 18%). The Client shall pay GST in addition to the fees specified above.
+
+3.6 Expenses: Travel, accommodation, and other out-of-pocket expenses incurred by the Service Provider in connection with the Services shall be reimbursed by the Client at actuals, subject to prior written approval and submission of receipts.
+
+4. INTELLECTUAL PROPERTY RIGHTS
+
+4.1 Pre-Existing IP: Each Party shall retain all rights to its pre-existing intellectual property. The Service Provider's proprietary frameworks, libraries, and tools used in the development shall remain the property of the Service Provider.
+
+4.2 Project IP: Upon receipt of full payment, all intellectual property rights in the custom-developed deliverables (application code, design assets, and documentation) shall be assigned to and owned exclusively by the Client.
+
+4.3 License to Pre-Existing IP: The Service Provider grants the Client a non-exclusive, perpetual, royalty-free license to use any pre-existing IP incorporated into the deliverables, solely for the purpose of operating and maintaining the delivered application.
+
+4.4 Open Source: The Service Provider shall disclose a list of all open-source components used in the project, along with their respective licenses, to ensure compliance with open-source licensing requirements.
+
+5. CONFIDENTIALITY
+
+5.1 Each Party agrees to maintain the confidentiality of all proprietary information received from the other Party during the course of this engagement.
+
+5.2 Confidential information includes but is not limited to: business plans, customer data, pricing information, technical specifications, and any information marked as "Confidential."
+
+5.3 The obligations of confidentiality shall survive the termination of this Agreement for a period of three (3) years.
+
+5.4 The Service Provider shall comply with all applicable data protection laws, including the Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023, in handling the Client's customer data.
+
+6. WARRANTIES AND REPRESENTATIONS
+
+6.1 The Service Provider warrants that:
+(a) The Services will be performed in a professional and workmanlike manner consistent with industry standards;
+(b) The deliverables will substantially conform to the agreed specifications for a period of six (6) months from the go-live date ("Warranty Period");
+(c) The deliverables will not infringe upon any third-party intellectual property rights;
+(d) The Service Provider has the necessary skills, qualifications, and resources to perform the Services.
+
+6.2 The Client warrants that:
+(a) It has the authority to enter into this Agreement;
+(b) It will provide timely feedback, content, and approvals as required;
+(c) It will designate a project coordinator to serve as the primary point of contact.
+
+6.3 DISCLAIMER: EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE SERVICE PROVIDER MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+7.1 The Service Provider's total aggregate liability under this Agreement, whether in contract, tort, or otherwise, shall not exceed the total fees actually paid by the Client under this Agreement.
+
+7.2 In no event shall either Party be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, loss of data, or business interruption, even if advised of the possibility of such damages.
+
+7.3 The limitations in this Section shall not apply to: (a) breaches of confidentiality obligations; (b) infringement of intellectual property rights; or (c) willful misconduct or gross negligence.
+
+8. SUPPORT AND MAINTENANCE
+
+8.1 Post-Launch Support Period: The Service Provider shall provide technical support for six (6) months from the go-live date, included in the project fee.
+
+8.2 Support Coverage:
+   - Bug fixes for defects in the delivered application
+   - Performance optimization for issues identified post-launch
+   - Up to forty (40) hours of minor enhancements and feature tweaks
+   - Response time: Critical issues within four (4) hours; non-critical issues within twenty-four (24) hours during business days
+
+8.3 Extended Support: After the six-month support period, the Client may opt for an extended Annual Maintenance Contract (AMC) at a fee of INR 3,60,000 (Indian Rupees Three Lakhs Sixty Thousand) per year, subject to a separate agreement.
+
+8.4 Support Exclusions: The following are not covered under the support terms:
+   - Issues caused by unauthorized modifications to the application by the Client or third parties;
+   - Issues arising from changes in third-party APIs, services, or infrastructure not managed by the Service Provider;
+   - New feature development (requires a separate SOW).
+
+9. TERMINATION
+
+9.1 Termination for Convenience: Either Party may terminate this Agreement by providing sixty (60) days written notice to the other Party. In such case:
+   - The Client shall pay for all Services rendered up to the date of termination, plus any non-cancellable expenses incurred;
+   - The Service Provider shall deliver all work completed up to the date of termination.
+
+9.2 Termination for Cause: Either Party may terminate this Agreement immediately if:
+   (a) The other Party commits a material breach and fails to cure such breach within thirty (30) days of receiving written notice;
+   (b) The other Party becomes insolvent, files for bankruptcy, or ceases to carry on business;
+   (c) The other Party is found to have made any material misrepresentation in this Agreement.
+
+9.3 Effect of Termination: Upon termination:
+   - All licenses granted under Section 4.3 shall survive, provided all fees due up to termination have been paid;
+   - Sections 5 (Confidentiality), 6.3 (Disclaimer), 7 (Limitation of Liability), and 10 (Dispute Resolution) shall survive termination;
+   - The Service Provider shall assist with reasonable transition activities for up to thirty (30) days after termination.
+
+10. DISPUTE RESOLUTION
+
+10.1 Negotiation: The Parties shall first attempt to resolve any dispute through good faith negotiations between their senior management for a period of thirty (30) days.
+
+10.2 Mediation: If negotiation fails, the dispute shall be referred to mediation under the rules of the Mumbai Centre for International Arbitration (MCIA).
+
+10.3 Arbitration: If mediation fails within thirty (30) days, the dispute shall be finally resolved by binding arbitration conducted in accordance with the Arbitration and Conciliation Act, 1996. The arbitration shall be conducted by a panel of three (3) arbitrators — one appointed by each Party and the third (presiding) arbitrator appointed by the two Party-appointed arbitrators. The seat of arbitration shall be Mumbai, India.
+
+10.4 The language of arbitration shall be English. The decision of the arbitral tribunal shall be final and binding on both Parties.
+
+11. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of India. Subject to the arbitration clause above, the courts of Mumbai, Maharashtra shall have exclusive jurisdiction.
+
+12. FORCE MAJEURE
+
+12.1 Neither Party shall be liable for delays or failure to perform its obligations due to events beyond its reasonable control, including but not limited to: natural disasters, wars, epidemics or pandemics, government orders, strikes, power outages, or failure of internet or telecommunications infrastructure.
+
+12.2 The affected Party shall notify the other Party in writing within seven (7) days of the occurrence of the force majeure event and shall use reasonable efforts to mitigate its effects.
+
+12.3 If the force majeure event continues for more than ninety (90) days, either Party may terminate this Agreement without liability.
+
+13. GENERAL PROVISIONS
+
+13.1 Independent Contractor: The Service Provider is an independent contractor and not an employee, agent, or partner of the Client. Nothing in this Agreement shall create an employment relationship.
+
+13.2 Non-Solicitation: During the term of this Agreement and for twelve (12) months thereafter, neither Party shall directly or indirectly solicit or hire any employee or contractor of the other Party who was involved in the performance of this Agreement, without prior written consent.
+
+13.3 Entire Agreement: This Agreement, together with any SOWs and annexures, constitutes the entire agreement between the Parties.
+
+13.4 Amendment: No amendment shall be effective unless in writing and signed by authorized representatives of both Parties.
+
+13.5 Severability: If any provision is held invalid, the remainder of the Agreement shall continue in full force.
+
+13.6 Assignment: Neither Party may assign this Agreement without the prior written consent of the other Party, except that the Service Provider may subcontract portions of the work with prior notification to the Client.
+
+13.7 Notices: All notices shall be sent in writing to the addresses specified above or to such other address as a Party may designate in writing.
+
+ANNEXURE A - KEY PERSONNEL
+
+The Service Provider shall assign the following key personnel to the project:
+
+1. Project Manager: Arjun Nair (10+ years experience)
+2. Lead Developer: Kavitha Subramanian (8+ years experience)
+3. UI/UX Designer: Rohit Bhatia (6+ years experience)
+4. QA Lead: Sanya Malhotra (7+ years experience)
+5. DevOps Engineer: Vikram Reddy (5+ years experience)
+
+Replacement of key personnel requires thirty (30) days prior written notice to the Client and the replacement must have equivalent or superior qualifications.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+For GreenLeaf Organic Foods Private Limited:
+Name: Deepak Sharma
+Title: Chief Executive Officer
+Date: June 1, 2024
+
+For CloudNet Digital Services LLP:
+Name: Ananya Krishnamurthy
+Title: Managing Partner
+Date: June 1, 2024

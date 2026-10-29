@@ -1,0 +1,44 @@
+# RAG-Based AI Legal Document Analyzer - Dependencies
+# Python 3.10+ required
+
+# --- Core LLM & RAG Framework ---
+langchain>=0.3.7,<0.4
+langchain-core>=0.3.17,<0.4
+langchain-community>=0.3.7,<0.4
+langchain-google-genai>=2.0.4,<3
+langchain-text-splitters>=0.3.2,<0.4
+
+# --- LangGraph (workflow orchestration) ---
+langgraph>=0.2.53,<0.3
+
+# --- Embeddings ---
+langchain-huggingface>=0.1.2,<0.2
+sentence-transformers>=3.3.1,<4
+
+# --- Vector Store ---
+faiss-cpu>=1.9.0,<2
+
+# --- Document Loaders ---
+pypdf>=5.1.0,<6
+python-docx>=1.1.2,<2
+
+# --- LLM Providers ---
+google-generativeai>=0.8.3,<1
+
+# --- UI ---
+streamlit>=1.40.2,<2
+
+# --- Structured Output ---
+pydantic>=2.10.2,<3
+
+# --- Config ---
+python-dotenv>=1.0.1,<2
+
+# --- Testing ---
+pytest>=8.3.4,<9
+
+# --- Evaluation ---
+pandas>=2.2.3,<3
+
+# --- Utilities ---
+tiktoken>=0.8.0,<1

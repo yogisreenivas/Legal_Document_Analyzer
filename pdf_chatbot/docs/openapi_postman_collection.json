@@ -1,0 +1,130 @@
+{
+  "info": {
+    "name": "PDF Analysis Chatbot API",
+    "description": "Postman Collection for two-stage PDF document analysis and grounded chat with SSE streaming.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "System Health Diagnostics",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/health",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "health"]
+        }
+      }
+    },
+    {
+      "name": "1. Upload Document",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "formdata",
+          "formdata": [
+            {
+              "key": "file",
+              "type": "file",
+              "src": "sample_text_contract.pdf"
+            }
+          ]
+        },
+        "url": {
+          "raw": "http://localhost:8000/api/documents/upload",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "documents", "upload"]
+        }
+      }
+    },
+    {
+      "name": "2. Get Processing Status",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/documents/{{document_id}}/status",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "documents", "{{document_id}}", "status"]
+        }
+      }
+    },
+    {
+      "name": "3. Get Stage 1 Structured Analysis",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/documents/{{document_id}}/analysis",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "documents", "{{document_id}}", "analysis"]
+        }
+      }
+    },
+    {
+      "name": "4. Get Page Raster Image",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/documents/{{document_id}}/pages/1",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "documents", "{{document_id}}", "pages", "1"]
+        }
+      }
+    },
+    {
+      "name": "5. Stage 2 Grounded Chat (SSE Stream)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          },
+          {
+            "key": "Accept",
+            "value": "text/event-stream"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"document_id\": \"{{document_id}}\",\n  \"question\": \"What is the termination notice period?\",\n  \"conversation_history\": []\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8000/api/chat",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "chat"]
+        }
+      }
+    },
+    {
+      "name": "6. Delete Document & Vector Collection",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/documents/{{document_id}}",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8000",
+          "path": ["api", "documents", "{{document_id}}"]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+Effective Date: January 15, 2024
+Agreement Number: NDA-2024-001
+
+PARTIES
+
+This Non-Disclosure Agreement ("Agreement") is entered into by and between:
+
+Disclosing Party: TechVision Solutions Private Limited, a company incorporated under the laws of India, having its registered office at 42 Innovation Park, Whitefield, Bangalore, Karnataka 560066 (hereinafter referred to as "TechVision" or "Disclosing Party").
+
+Receiving Party: DataBridge Analytics LLP, a limited liability partnership registered under the laws of India, having its registered office at 15 Cyber Towers, Hitech City, Hyderabad, Telangana 500081 (hereinafter referred to as "DataBridge" or "Receiving Party").
+
+Collectively referred to as the "Parties" and individually as a "Party."
+
+1. PURPOSE
+
+The purpose of this Agreement is to protect confidential and proprietary information that may be disclosed between the Parties in connection with a potential business collaboration involving the development of an AI-powered customer analytics platform (the "Project"). The Receiving Party acknowledges that the Disclosing Party possesses certain valuable trade secrets, technical data, and business information that must remain confidential.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+
+2.1 "Confidential Information" means any and all non-public information, whether disclosed orally, in writing, electronically, or by any other means, including but not limited to:
+
+(a) Technical information: software source code, algorithms, machine learning models, training datasets, API specifications, system architectures, design documents, and technical roadmaps.
+
+(b) Business information: customer lists, pricing strategies, financial projections, marketing plans, business strategies, partnership details, and revenue models.
+
+(c) Operational information: internal processes, employee information, vendor contracts, and operational methodologies.
+
+(d) Any information marked as "Confidential," "Proprietary," or with similar designation.
+
+2.2 Confidential Information does not include information that:
+
+(a) Is or becomes publicly available through no fault of the Receiving Party;
+(b) Was known to the Receiving Party prior to disclosure, as evidenced by written records;
+(c) Is independently developed by the Receiving Party without use of or reference to the Confidential Information;
+(d) Is rightfully received from a third party without restriction on disclosure.
+
+3. OBLIGATIONS OF THE RECEIVING PARTY
+
+3.1 The Receiving Party agrees to:
+
+(a) Hold all Confidential Information in strict confidence and not disclose it to any third party without the prior written consent of the Disclosing Party.
+
+(b) Use the Confidential Information solely for the purpose of evaluating and pursuing the Project described in Section 1.
+
+(c) Limit access to Confidential Information to those employees, contractors, and advisors who have a legitimate need to know and who are bound by confidentiality obligations no less restrictive than those contained herein.
+
+(d) Exercise at least the same degree of care to protect the Confidential Information as it uses to protect its own confidential information, but in no event less than reasonable care.
+
+(e) Promptly notify the Disclosing Party in writing of any unauthorized use or disclosure of Confidential Information.
+
+3.2 The Receiving Party shall not reverse engineer, decompile, or disassemble any software or technology provided as part of the Confidential Information.
+
+4. TERM AND TERMINATION
+
+4.1 This Agreement shall remain in effect for a period of three (3) years from the Effective Date ("Term").
+
+4.2 Either Party may terminate this Agreement by providing thirty (30) days written notice to the other Party.
+
+4.3 Upon termination or expiration of this Agreement, the Receiving Party shall:
+
+(a) Promptly return or destroy all materials containing Confidential Information;
+(b) Provide written certification of such return or destruction within fifteen (15) days;
+(c) Continue to maintain the confidentiality of all Confidential Information for a period of five (5) years following termination.
+
+5. INTELLECTUAL PROPERTY
+
+5.1 All Confidential Information and any intellectual property rights therein shall remain the exclusive property of the Disclosing Party.
+
+5.2 This Agreement does not grant the Receiving Party any license, right, or interest in any patents, copyrights, trademarks, or other intellectual property of the Disclosing Party.
+
+5.3 Any improvements, modifications, or derivative works created using the Confidential Information shall be the sole property of the Disclosing Party.
+
+6. INDEMNITY
+
+6.1 The Receiving Party agrees to indemnify, defend, and hold harmless the Disclosing Party and its officers, directors, employees, and agents from and against any and all claims, damages, losses, costs, and expenses (including reasonable attorney fees) arising from or related to any breach of this Agreement by the Receiving Party.
+
+6.2 The maximum aggregate liability under this indemnity clause shall not exceed INR 50,00,000 (Indian Rupees Fifty Lakhs).
+
+7. DISPUTE RESOLUTION
+
+7.1 Any dispute arising out of or in connection with this Agreement shall first be attempted to be resolved through good faith negotiation between the Parties for a period of thirty (30) days.
+
+7.2 If the dispute cannot be resolved through negotiation, it shall be referred to and finally resolved by arbitration in accordance with the Arbitration and Conciliation Act, 1996 of India. The seat of arbitration shall be Bangalore, India.
+
+7.3 The arbitration shall be conducted by a sole arbitrator mutually appointed by the Parties. The language of arbitration shall be English.
+
+8. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law principles. The courts of Bangalore, Karnataka shall have exclusive jurisdiction over any matters not subject to arbitration.
+
+9. PENALTIES FOR BREACH
+
+9.1 In the event of a material breach of this Agreement, the breaching Party shall be liable to pay liquidated damages of INR 25,00,000 (Indian Rupees Twenty-Five Lakhs) to the non-breaching Party.
+
+9.2 The Disclosing Party shall also be entitled to seek injunctive relief and specific performance in addition to any other remedies available at law or in equity.
+
+10. GENERAL PROVISIONS
+
+10.1 Entire Agreement: This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior negotiations, agreements, and understandings.
+
+10.2 Amendment: No modification of this Agreement shall be valid unless made in writing and signed by both Parties.
+
+10.3 Severability: If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+10.4 Waiver: The failure of either Party to enforce any provision of this Agreement shall not constitute a waiver of that Party's right to enforce that provision in the future.
+
+10.5 Assignment: Neither Party may assign its rights or obligations under this Agreement without the prior written consent of the other Party.
+
+10.6 Notices: All notices under this Agreement shall be in writing and delivered by registered mail or email to the addresses specified above.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.
+
+For TechVision Solutions Private Limited:
+Name: Rajesh Kumar Sharma
+Title: Chief Technology Officer
+Date: January 15, 2024
+
+For DataBridge Analytics LLP:
+Name: Priya Venkataraman
+Title: Managing Partner
+Date: January 15, 2024

@@ -1,0 +1,143 @@
+[
+    {
+        "id": 1,
+        "question": "What is the effective date of the NDA?",
+        "expected_answer": "January 15, 2024",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 2,
+        "question": "Who are the parties in the NDA?",
+        "expected_answer": "TechVision Solutions Private Limited (Disclosing Party) and DataBridge Analytics LLP (Receiving Party)",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 3,
+        "question": "How long does the NDA remain in effect?",
+        "expected_answer": "Three (3) years from the Effective Date",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 4,
+        "question": "What is the termination notice period in the NDA?",
+        "expected_answer": "Thirty (30) days written notice",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 5,
+        "question": "What is the maximum liability under the NDA indemnity clause?",
+        "expected_answer": "INR 50,00,000 (Indian Rupees Fifty Lakhs)",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 6,
+        "question": "What is the penalty for breach of the NDA?",
+        "expected_answer": "Liquidated damages of INR 25,00,000 (Indian Rupees Twenty-Five Lakhs)",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 7,
+        "question": "What is the governing law for the NDA?",
+        "expected_answer": "Laws of India, with courts of Bangalore, Karnataka having exclusive jurisdiction",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 8,
+        "question": "What is the monthly rent in the rental agreement?",
+        "expected_answer": "INR 35,000 (Indian Rupees Thirty-Five Thousand)",
+        "source_doc": "rental_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 9,
+        "question": "What is the security deposit amount in the rental agreement?",
+        "expected_answer": "INR 1,75,000 (Indian Rupees One Lakh Seventy-Five Thousand), equivalent to five months' rent",
+        "source_doc": "rental_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 10,
+        "question": "What is the late payment penalty in the rental agreement?",
+        "expected_answer": "INR 200 per day of delay, up to a maximum of INR 3,000 per month",
+        "source_doc": "rental_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 11,
+        "question": "What is the lock-in period for the rental agreement?",
+        "expected_answer": "Six (6) months from the Commencement Date",
+        "source_doc": "rental_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 12,
+        "question": "What is the total project fee in the service agreement?",
+        "expected_answer": "INR 24,00,000 (Indian Rupees Twenty-Four Lakhs), exclusive of applicable taxes",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 13,
+        "question": "What is the termination notice period in the service agreement?",
+        "expected_answer": "Sixty (60) days written notice for termination for convenience",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 14,
+        "question": "What is the post-launch support period in the service agreement?",
+        "expected_answer": "Six (6) months from the go-live date",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 15,
+        "question": "What is the non-solicitation period in the service agreement?",
+        "expected_answer": "During the term and for twelve (12) months thereafter",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 16,
+        "question": "Where is the seat of arbitration in the NDA?",
+        "expected_answer": "Bangalore, India",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 17,
+        "question": "What is the force majeure clause duration in the service agreement?",
+        "expected_answer": "If the force majeure event continues for more than ninety (90) days, either Party may terminate without liability",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 18,
+        "question": "Who is the project manager assigned in the service agreement?",
+        "expected_answer": "Arjun Nair (10+ years experience)",
+        "source_doc": "service_agreement.txt",
+        "task_type": "qa"
+    },
+    {
+        "id": 19,
+        "question": "What color is the unicorn mentioned in the NDA?",
+        "expected_answer": "Not found in the document",
+        "source_doc": "nda_agreement.txt",
+        "task_type": "qa",
+        "note": "This question tests anti-hallucination - the answer should not exist"
+    },
+    {
+        "id": 20,
+        "question": "What happens if rent is not paid for two consecutive months?",
+        "expected_answer": "The Landlord may terminate the agreement immediately without notice",
+        "source_doc": "rental_agreement.txt",
+        "task_type": "qa"
+    }
+]
